@@ -9,7 +9,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongmwa&show_icons=true&theme=radical)
 <br>
-<img src="http://mazandi.herokuapp.com/api?handle={mds468}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=mds468&theme=dark"/>
 <br>
   
   
