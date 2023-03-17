@@ -9,5 +9,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongmwa&show_icons=true&theme=radical)
 <br>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<br>
+  
   
 </div>
