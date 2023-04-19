@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5F5&height=500&text="GOATHP'S%20GIT")
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5F5&height=200&text=GOATHP'S%20GIT)
 
 <img src="https://img.shields.io/badge/RStudio-276DC3?style=plastic&logo=R&logoColor=white"> 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"> 
