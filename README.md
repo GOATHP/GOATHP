@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color={ 0%: 'EEFF00', 100%: 'a82da8'}&text=Welcome%20to%20GOATHP's%20Github&fontSize=40&animation=fadeIn&fontColor=F636CD)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20GOATHP's%20Github&fontSize=40&animation=fadeIn&fontColor=F636CD)
 
 
 
