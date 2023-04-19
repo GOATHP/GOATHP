@@ -13,12 +13,12 @@
   <h3 = align=center> 🌪Tool🌪 </h3> 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=plastic&logo=Jupyter&logoColor=white"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">  
+<img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=plastic&logo=Jupyter&logoColor=white">   
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"> 
   <br>  
   <h3 = align=center> 🐳Library🐳 </h3>
-<img src="https://img.shields.io/badge/Selenium-402A?style=plastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/TensroFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-402A?style=plastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/TensroFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">
 <br>
   
   <h3 = align=center> ⚡Platform⚡ </h3>
