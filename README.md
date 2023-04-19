@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect)
-![header](https://capsule-render.vercel.app/api?text=Welcome to GOATHP's%Github)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%to%GOATHP's%Github)
+
 
 
 <div align = "center"> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"> 
