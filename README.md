@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5F5&height=250&text=GOATHP'S%20GIT&fontColor=A1FFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=250&text=GOATHP'S%20GIT&fontColor=FF00FF&fontSize=40)
 
 <div align=center>
   <h3 = align=center> 🌞Contact🌞 </h3>
