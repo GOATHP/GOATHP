@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5F5&height=300&76DC3?style=plastic&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD5F5&height=300&76DC3?style=plastic&logo=R&logoColor=white"> 
+
+
+<img src="https://img.shields.io/badge/RStudio-276DC3?style=plastic&logo=R&logoColor=white"> 
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Java-F78C40?style=plastic&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse&logoColor=white"> 
 <br>  
