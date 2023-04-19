@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20GOATHP's%20Github)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20GOATHP's%20Github&fontSize=40)
 
 
 
