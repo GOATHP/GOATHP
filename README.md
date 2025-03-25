@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-F78C40?style=plastic&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 <br>
   <h3 = align=center> 🌪Tool🌪 </h3> 
