@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=230&text=GOATHP'S%20GIT&fontColor=FF00FF&fontSize=40)
 <div align=center>
   <h3 = align=center> 🌞Contact🌞 </h3>
-<img src="https://img.shields.io/badge/rhkdejr31@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
+<img src="https://img.shields.io/badge/goathpark@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
 
 <div align=center>
   <h3 = align=center> 🔥Language🔥 </h3>
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Java-F78C40?style=plastic&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"/>
 
 <br>
   <h3 = align=center> 🌪Tool🌪 </h3> 
