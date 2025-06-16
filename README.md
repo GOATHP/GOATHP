@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=230&text=박태현'S%20TARRY입니다.&fontColor=FF00FF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=230&text=끈기있는%20iOS개발자%20박태현(TARRY)입니다.&fontColor=FF00FF&fontSize=40)
 <div align=center>
   <h3 = align=center> 🌞Contact🌞 </h3>
 <img src="https://img.shields.io/badge/goathpark@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
