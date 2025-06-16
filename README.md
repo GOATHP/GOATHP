@@ -17,8 +17,11 @@
 
 <!-- 📬 Contact -->
 <h3 align="center">📬 Contact</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/goathpark@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
+  📧 <a href="mailto:goathpark@gmail.com"><b>goathpark@gmail.com</b></a><br>
+  📝 <a href="https://goathp.tistory.com/" target="_blank"><b>goathp.tistory.com</b></a><br>
+  🐙 <a href="https://github.com/GOATHP" target="_blank"><b>github.com/GOATHP</b></a>
 </p>
 
 <!-- 💻 Language -->
