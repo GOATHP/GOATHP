@@ -13,16 +13,15 @@
   🎯 그것이 제가 지향하는 방향입니다.
 </p>
 
----
-
 <h3 align="center">📬 Contact</h3>
 
-<p align="center">
+<p align="left">
   📧 Email : <a href="mailto:goathpark@gmail.com">goathpark@gmail.com</a><br>
   📝 Blog : <a href="https://goathp.tistory.com/" target="_blank">goathp.tistory.com</a><br>
   🐙 GitHub : <a href="https://github.com/GOATHP" target="_blank">github.com/GOATHP</a>
 </p>
 
+--- 
 <!-- 💻 Language -->
 <h3 align="center">💻 Language</h3>
 <p align="center">
