@@ -13,7 +13,7 @@
   🎯 그것이 제가 지향하는 방향입니다.
 </p>
 
-<h3 align="center">📬 Contact</h3>
+<h3 align="left">📬 Contact</h3>
 
 <p align="left">
   📧 Email : <a href="mailto:goathpark@gmail.com">goathpark@gmail.com</a><br>
