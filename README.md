@@ -15,13 +15,12 @@
 
 ---
 
-<!-- 📬 Contact -->
 <h3 align="center">📬 Contact</h3>
 
 <p align="center">
-  📧 <a href="mailto:goathpark@gmail.com"><b>goathpark@gmail.com</b></a><br>
-  📝 <a href="https://goathp.tistory.com/" target="_blank"><b>goathp.tistory.com</b></a><br>
-  🐙 <a href="https://github.com/GOATHP" target="_blank"><b>github.com/GOATHP</b></a>
+  📧 Email : <a href="mailto:goathpark@gmail.com">goathpark@gmail.com</a><br>
+  📝 Blog : <a href="https://goathp.tistory.com/" target="_blank">goathp.tistory.com</a><br>
+  🐙 GitHub : <a href="https://github.com/GOATHP" target="_blank">github.com/GOATHP</a>
 </p>
 
 <!-- 💻 Language -->
