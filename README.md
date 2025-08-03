@@ -1,5 +1,5 @@
 <!-- 🔥 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=230&text=🔥소통을%20중시하는%20iOS%20개발자%20박태현(TARRY)%20입니다.&fontColor=ffffff&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA55B8,100:9B6FFF&height=230&text=🔥%20iOS%20개발자%20박태현(TARRY)%20입니다.&fontColor=ffffff&fontSize=32)
 
 <!-- 👋 소개 -->
 <p align="center">
